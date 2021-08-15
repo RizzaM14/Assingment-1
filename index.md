@@ -1,4 +1,3 @@
-<!DOCTYPE html>
 <html>
 <title>Assingment 1</title>
 <meta charset="UTF-8">
