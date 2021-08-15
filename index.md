@@ -91,8 +91,8 @@ and is wrapped around the whole page content, except for the footer in this exam
         <h3><b>Quiz 1 and 2 results</b></h3>
       </div>
       <div class="w3-container">
-        <<img src="Quiz1.png" alt="Quiz 1" width="40%">
-        <<img src="Quiz2.png" alt="Quiz 2" width="50%">
+        <<img src="quiz1.png" alt="Quiz 1" width="40%">
+        <<img src="quiz2.png" alt="Quiz 2" width="50%">
       </div>
     </div>
 
@@ -189,7 +189,7 @@ and is wrapped around the whole page content, except for the footer in this exam
       <h3><b>Quiz 3 result</b></h3>
     </div>
     <div class="w3-container">
-      <<img src="Quiz3.png" alt="Quiz 3" width="100%">
+      <<img src="quiz3.png" alt="Quiz 3" width="100%">
       </div>
       </div>
 
