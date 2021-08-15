@@ -1,3 +1,7 @@
+![236255418_417008309727650_2063120570397939474_n](https://user-images.githubusercontent.com/88356467/129474328-15b27a50-6834-4d53-8731-c7324ef63751.jpg)
+![quiz1](https://user-images.githubusercontent.com/88356467/129474329-f70a619d-5199-47b2-98f7-99267a3edec5.PNG)
+![quiz2](https://user-images.githubusercontent.com/88356467/129474330-907b098c-b594-4cff-b6a3-efa5b8865804.PNG)
+![quiz3](https://user-images.githubusercontent.com/88356467/129474331-b8d2adf6-abf7-4da2-9898-cdcb52710ff9.PNG)
 <html>
 <title>Assingment 1</title>
 <meta charset="UTF-8">
