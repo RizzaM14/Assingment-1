@@ -73,7 +73,7 @@ and is wrapped around the whole page content, except for the footer in this exam
       <p>The skills required to do a job like this in my opinion are to have proper qualifications (completion of accounting bachelor or maybe some other relevant business bachelor to have the basic theory and knowledge) as well as good computer skills as accountants will need to know how to use many software’s and be aware of computer macros which will make creating the reports much more efficient. Another key skill I believe is the ability to work both autonomously and as a team, accountants tend to work alone while in the recording and reporting stage however it does also require a team effort in having the same idea with co-workers on how to help a client based on these reports.</p>
       <p>As of now, I do not have much actual work experience, however I have completed assignments that are real-life simulations which allowed me to learn some fundamentals of an accounting software called Xero. I also have a lot of Microsoft software experience especially in Excel which is vital to accountants.The best way for me to obtain my skills is obviously working in the real life industry which I will be doing next year, however until then I can watch YouTube tutorial videos on accounting software’s that I’m not familiar with and try and practise them in my own time so I can get used to navigating and effectively using the software’s.</p>
 <p>The job link: <a href="url">https://www.seek.com.au/job/53275088?type=promoted#searchRequestToken=5279005b-45cd-4266-a4c0-7898c8aa3864</a></p>
-<img src="capture.PNG" alt="Norway" style="width:80%">
+<img src="capture.PNG" alt="Job Ad" style="width:80%">
       <div class="w3-row">
         <div class="w3-col m8 s12">
 
